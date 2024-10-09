@@ -1,6 +1,5 @@
 {
   "title": "Cool Project",
-  "access_right": "open",
   "license": "MIT",
   "keywords": [
     "experiemnt",
@@ -8,7 +7,6 @@
     "repository",
     "github"
   ],
-  "draft": true,
   "communities": [
         {"identifier": "cool-university"}
     ]
