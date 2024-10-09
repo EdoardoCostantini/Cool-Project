@@ -8,6 +8,7 @@
     "repository",
     "github"
   ],
+  "draft": true,
   "communities": [
         {"identifier": "cool-university"}
     ]
