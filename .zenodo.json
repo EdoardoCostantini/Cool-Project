@@ -1,0 +1,16 @@
+{
+  "title": "Cool Project", 
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "experiemnt",
+    "software",
+    "repository",
+    "github"
+  ],
+  "communities": [
+    {
+      "identifier": "cool-university"
+    }
+  ]
+}
