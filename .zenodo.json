@@ -9,6 +9,6 @@
     "github"
   ],
   "communities": [
-    "identifier": "cool-university"
-  ]
+        {"identifier": "cool-university"}
+    ]
 }
