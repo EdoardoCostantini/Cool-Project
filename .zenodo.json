@@ -2,13 +2,13 @@
   "title": "Cool Project",
   "access_right": "open",
   "license": "MIT",
-  "keywords": {
+  "keywords": [
     "experiemnt",
     "software",
     "repository",
     "github"
-  },
-  "communities": {
+  ],
+  "communities": [
     "identifier": "cool-university"
-  }
+  ]
 }
